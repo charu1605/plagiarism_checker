@@ -1,0 +1,4 @@
+File 1,File 2,Similarity (%)
+/content/Arthur.txt,/content/Ben.txt,45.95329317649596
+/content/Arthur.txt,/content/Clark.txt,54.304311210898035
+/content/Ben.txt,/content/Clark.txt,40.890488440034694
